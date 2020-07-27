@@ -1,0 +1,11 @@
+# These owners will be the default owners for everything in
+# the repo. Unless a later match takes precedence,
+# they will be requested for review when someone opens a pull request.
+*       @slavatrofimov
+
+
+# Owners for each API
+/apis/poi/ @slavatrofimov
+/apis/trips/ @slavatrofimov
+/apis/user-java/ @slavatrofimov
+/apis/userprofile/ @slavatrofimov
